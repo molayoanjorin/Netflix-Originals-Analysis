@@ -148,10 +148,10 @@ No missing values were identified in the final dataset.
 
 To make runtime analysis easier to interpret, runtime values were grouped into four categories:
 
-* Under 60 minutes
-* 60 - 89 minutes
-* 90 - 119 minutes
-* 120+ minutes
+* Under 1 hour
+* 1-1.5 hours 
+* 1.5-2 hours 
+* Over 2 hours 
 
 This allowed runtime to be analyzed as meaningful groups rather than only individual minute values.
 
